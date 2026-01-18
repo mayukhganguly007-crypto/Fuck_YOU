@@ -1,0 +1,7 @@
+{
+  "name": "Brain-Drain: Neural Satellite Link",
+  "description": "A cutting-edge neural telemetry dashboard that tracks brain activity patterns using satellite-optimized signal relay. Monitor cognitive load, synchronize satellite clusters, and generate AI-driven neural performance reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
